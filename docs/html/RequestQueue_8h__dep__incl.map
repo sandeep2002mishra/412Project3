@@ -1,0 +1,7 @@
+<map id="include/RequestQueue.h" name="include/RequestQueue.h">
+<area shape="rect" id="node1" title="Defines the RequestQueue class that manages a queue of requests." alt="" coords="95,5,275,32"/>
+<area shape="rect" id="node2" href="$RequestQueue_8cpp.html" title="Implementation of the RequestQueue class." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$LoadBalancer_8h.html" title="Defines the LoadBalancer class that manages web servers and request queues." alt="" coords="196,80,368,107"/>
+<area shape="rect" id="node4" href="$LoadBalancer_8cpp.html" title="Implementation of the LoadBalancer class." alt="" coords="124,155,283,181"/>
+<area shape="rect" id="node5" href="$Main_8cpp.html" title="Main program to simulate a load balancer with web servers." alt="" coords="307,155,411,181"/>
+</map>

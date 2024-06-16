@@ -1,0 +1,10 @@
+<map id="include/Request.h" name="include/Request.h">
+<area shape="rect" id="node1" title="Defines the Request struct that holds the details of a web request." alt="" coords="207,5,346,32"/>
+<area shape="rect" id="node2" href="$RequestQueue_8h.html" title="Defines the RequestQueue class that manages a queue of requests." alt="" coords="91,80,271,107"/>
+<area shape="rect" id="node7" href="$WebServer_8h.html" title="Defines the WebServer class that processes web requests." alt="" coords="295,80,450,107"/>
+<area shape="rect" id="node3" href="$RequestQueue_8cpp.html" title="Implementation of the RequestQueue class." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$LoadBalancer_8h.html" title="Defines the LoadBalancer class that manages web servers and request queues." alt="" coords="196,155,368,181"/>
+<area shape="rect" id="node5" href="$LoadBalancer_8cpp.html" title="Implementation of the LoadBalancer class." alt="" coords="125,229,284,256"/>
+<area shape="rect" id="node6" href="$Main_8cpp.html" title="Main program to simulate a load balancer with web servers." alt="" coords="309,229,413,256"/>
+<area shape="rect" id="node8" href="$WebServer_8cpp.html" title="Implementation of the WebServer class." alt="" coords="393,155,534,181"/>
+</map>
